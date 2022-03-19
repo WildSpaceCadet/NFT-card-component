@@ -16,10 +16,12 @@ h1 {
 
 h1:hover {
   color: Cyan;
+  font-weight: 600;
 }
 
 p {
   font-size: 18px;
+  font-weight: 0;
 }
 
 hr {
